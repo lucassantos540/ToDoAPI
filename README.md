@@ -1,6 +1,6 @@
-## Título: "API de To-Do List com ASP.NET Core"
+## API de To-Do List com ASP.NET Core
 
-## Descrição: "Esta é uma API RESTful simples para gerenciamento de tarefas (To-Do List) construída com ASP.NET Core e Entity Framework Core (banco de dados em memória)."
+Esta é uma API RESTful To-Do List focada em simplicidade e facilidade de uso.
 
 ## Tecnologias:
 
